@@ -1,0 +1,22 @@
+{
+  "name": "vueapp",
+  "version": "1.0.0",
+  "description": "A Vue application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo No test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nepgfurmixpro/VueApp.git"
+  },
+  "author": "Nepgfurmixpro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nepgfurmixpro/VueApp/issues"
+  },
+  "homepage": "https://github.com/Nepgfurmixpro/VueApp#readme",
+  "dependencies": {
+    "vue": "^2.6.12"
+  }
+}
